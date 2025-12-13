@@ -44,7 +44,7 @@ Developed for *Düşünürler Dergisi*, this application captures an image of a 
 
 * **Founder:** Managing my own business at [Düşünürler Dergisi](http://www.dusunurlerdergisi.com).
 * **Intern:** Software Intern at **Istanbul ML**.
-* **Education:** Çanakkale Onsekiz Mart University.
+* **Education:** Çanakkale Onsekiz Mart University. <br> Tekirdağ Namık Kemal Üniversitesi
 * **Certifications:** Google Digital Garage Certificate.
 
 ---
@@ -56,4 +56,4 @@ I am always looking to collaborate on creative and innovative projects!
 * [LinkedIn](YOUR_LINKEDIN_URL_HERE)
 * [Portfolio / Website](https://mathpathconsole.github.io/)
 
-![Besat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+![Besat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AstroBesat-SoftW&show_icons=true&theme=radical)
