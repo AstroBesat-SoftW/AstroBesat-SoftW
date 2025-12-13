@@ -15,9 +15,7 @@
   <h3 style="display:inline-block; margin-left:10px;">Mission Control</h3>
   <br/>
   <p width="600px">
-    Merhabalar, ben <b>Besat</b>. Kodların evreninde yeni dünyalar keşfediyorum.<br/> 
-    <b>Python</b> ve <b>Flutter</b> ana silahlarım. <b>NASA</b> standartlarında temiz kod yazmaya ve <b>Apple</b> estetiğinde projeler üretmeye odaklanıyorum.<br/>
-    <i>"Bilim, gerçeğin şiiridir."</i>
+   deneme
   </p>
 </div>
 
