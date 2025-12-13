@@ -1,4 +1,4 @@
-```markdown
+[```markdown
 <!--
   AstroBesat-SoftW README
   - İçerik Türkçe, şekilli SVG animasyon başlık, dinamik kartlar ve örnek projeler bölümü içerir.
@@ -112,3 +112,4 @@ README'e daha fazla şekilli animasyon (ör. dönen 3D kart, mouse ile etkileşi
 söyle, ben commit içeriğini hazırlayıp eklemeye hazır hâle getireyim.
 ```
 ```
+](https://github.com/AstroBesat-SoftW)
