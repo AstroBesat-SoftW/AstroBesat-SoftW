@@ -1,7 +1,8 @@
+```markdown
 <!--
   AstroBesat-SoftW README
   - İçerik Türkçe, şekilli SVG animasyon başlık, dinamik kartlar ve örnek projeler bölümü içerir.
-  - Dilediğin gibi düzenle; GIF veya ek görsel kullanmak istersen repo'ya ./assets/ dizinine koyup <img src="./assets/..."> ile ekleyebilirsin.
+  - İstersen repo adını verirsen ben bunu doğrudan hesabına commit edecek bir commit hazırlarım.
 -->
 
 <!-- ANIMATED HERO (SVG) -->
@@ -53,6 +54,7 @@
   </svg>
 </div>
 
+<!-- KISA HAKKIMDA -->
 ## Hakkımda
 - İsim: AstroBesat-SoftW
 - Rol: Yazılım geliştirici · Açık kaynak katkıcısı
@@ -60,6 +62,7 @@
 
 ---
 
+<!-- TEKNOLOJİ İKONLARI (Basit şekil animasyon benzeri görünüm için) -->
 <div align="center">
   <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?logo=typescript&logoColor=white" alt="TypeScript" />
@@ -71,9 +74,11 @@
 ---
 
 ## Öne Çıkan Projeler
-- [Proje-1](https://github.com/AstroBesat-SoftW/Proje-1) — Kısa açıklama.
+- [Proje-1](https://github.com/AstroBesat-SoftW/Proje-1) — Kısa açıklama: Bu proje ne yapıyor, hangi problemi çözüyor.
 - [Proje-2](https://github.com/AstroBesat-SoftW/Proje-2) — Kısa açıklama.
 - [Proje-3](https://github.com/AstroBesat-SoftW/Proje-3) — Kısa açıklama.
+
+*Repo isimlerini ve açıklamaları kendi projelerine göre güncelle.*
 
 ---
 
@@ -83,6 +88,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AstroBesat-SoftW&layout=compact&theme=radical" alt="Top Langs" />
 </p>
 
+<!-- İSTEK ÜZERİNE EKLENEBİLECEK ANİMASYON ÖRNEKLERİ
+  - Animated GIF header: repo içine bir GIF yükleyip <img src="./assets/header.gif"> ile ekleyebilirsin.
+  - Daha fazla SVG şekil animasyonu istersen başlık SVG'sini genişletirim (dönen ikonlar, dalga animasyonları, vs).
+  - İstersen profil için "particle" efekti gibi hazır GIF veya SVG paketleri oluşturup repo'ya ekleyebilirim.
+-->
+
 ---
 
 ## İletişim
@@ -90,4 +101,14 @@
 - Twitter: [@kullaniciadi](https://twitter.com/kullaniciadi)
 - LinkedIn: [Profilim](https://www.linkedin.com/in/kullaniciadi)
 
-Teşekkürler! ⭐
+---
+
+Teşekkürler! ⭐  
+README'e daha fazla şekilli animasyon (ör. dönen 3D kart, mouse ile etkileşimli efektler — bunlar GitHub profil README'sinde sınırlı çalışır) veya özel GIF/SVG eklememi istersen:
+- Hangi projeleri öne çıkarmak istediğini,
+- Hangi dilleri/araçları göstermek istediğini,
+- README'yi hangi repo'ya (genelde AstroBesat-SoftW/AstroBesat-SoftW) eklememi istediğini
+
+söyle, ben commit içeriğini hazırlayıp eklemeye hazır hâle getireyim.
+```
+```
