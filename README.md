@@ -14,7 +14,7 @@ I have a versatile background ranging from web development to mobile apps and Io
 
 | Category | Technologies |
 | :--- | :--- |
-| **Languages** | Python, Dart, PHP, JavaScript, HTML, CSS, SQL |
+| **Languages** | Python, Dart, PHP, JavaScript, HTML, CSS, SQL, C, C#, C++, Django |
 | **Mobile** | Flutter, Python Kivy |
 | **IoT & Hardware** | Arduino (ESP8266), Sensor Integration |
 | **Backend & Cloud** | Firebase, MySQL |
