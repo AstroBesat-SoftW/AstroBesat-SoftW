@@ -53,7 +53,7 @@ Developed for *Düşünürler Dergisi*, this application captures an image of a 
 
 I am always looking to collaborate on creative and innovative projects!
 
-* [LinkedIn](YOUR_LINKEDIN_URL_HERE)
+* [LinkedIn](https://www.linkedin.com/in/besat-%C3%A7%C4%B1ngar-a63b46279/)
 * [Portfolio / Website](https://mathpathconsole.github.io/)
 
-![Besat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AstroBesat-SoftW&show_icons=true&theme=radical)
+
