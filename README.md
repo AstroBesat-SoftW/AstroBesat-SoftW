@@ -19,7 +19,7 @@
       <img src="https://img.shields.io/badge/SotsTech_Ecosystem-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="SotsTech" />
     </a>
     <a href="https://mathpathconsole.github.io/" target="_blank">
-      <img src="https://img.shields.io/badge/MathPath_Web-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+      <img src="https://img.shields.io/badge/MathPath_Web-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white" alt="MathPath Website" />
     </a>
     <a href="http://www.dusunurlerdergisi.com" target="_blank">
       <img src="https://img.shields.io/badge/Düşünürler_Dergisi-2B5B84?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Düşünürler Dergisi" />
@@ -36,11 +36,11 @@
 
 ### 👨‍💻 About Me
 
-I am a **Software Engineer & AI Researcher** passionate about bridging **scientific & biophysical computation** with **production-grade software architecture**. Whether I am designing custom compression algorithms from scratch, training ensemble machine learning models for genomic classification, or deploying cross-platform games to the **App Store** and **Google Play**, I thrive on deep technical challenges.
+I am a **Software Engineer & AI Researcher** passionate about bridging **scientific computation** with **production-grade software architecture**. Whether I am designing custom compression and logic algorithms from scratch, training computer vision & machine learning models, or deploying cross-platform games to the **App Store** and **Google Play**, I thrive on deep technical challenges.
 
-- 🏆 **TEKNOFEST 2026 Finalist (AI in Health):** Achieved a **98.5/100** technical evaluation score with team **LUCA-AI** for high-precision genomic variant classification.
-- 📱 **Published Indie Developer:** Architecting and shipping mobile games & utilities (*AstroDash*, *Color Jump: Global League*, *Ultimate Puzzle*, *MathPath*) with automated CI/CD pipelines (`GitHub Actions` & `Codemagic`).
-- 🔬 **Hardware & Algorithms Enthusiast:** Building autonomous IoT telemetry systems (`ESP32`/`ESP8266`, `STM32F4`) and low-level image processing pipelines.
+- 🏆 **TEKNOFEST 2026 Finalist (AI in Health / Sağlıkta Yapay Zeka):** Achieved a **98.5/100** technical evaluation score for high-precision AI-driven genomic variant classification.
+- 📱 **Published Indie Developer:** Architecting and shipping mobile games & symbolic math applications (*MathPath*, *AstroDash*, *Color Jump: Global League*) with automated CI/CD pipelines (`GitHub Actions` & `Codemagic`).
+- 🔬 **Hardware & Algorithms Enthusiast:** Building autonomous IoT telemetry systems (`ESP32`/`ESP8266`, `STM32F4`), digital logic simulators, and low-level data processing pipelines.
 - 🎓 **Google Turkey Game & Application Academy** (3rd Term Scholar) & **GDG on Campus NKÜ** Core Developer.
 
 ---
@@ -55,57 +55,97 @@ I am a **Software Engineer & AI Researcher** passionate about bridging **scienti
 
 | Domain | Technologies & Frameworks |
 | :--- | :--- |
-| **AI, ML & Vision** | `CatBoost` `XGBoost` `LightGBM` `Scikit-Learn` `OpenCV` `BM3D Denoising` `Tesseract OCR` `Pandas` `NumPy` |
-| **Mobile & Cross-Platform** | `Flutter` `Dart` `iOS (App Store / TestFlight)` `Android (Google Play)` `Python Kivy` `Symbolic Computing (SymPy)` |
-| **Embedded & IoT** | `ESP8266` `ESP32` `STM32F4 Discovery` `Arduino` `VPD Biophysical Telemetry` `Sensor Fusion` |
-| **Backend, Web & DevOps** | `Firebase Realtime DB` `MySQL` `MSSQL` `Django` `PHP` `Streamlit` `GitHub Actions` `Codemagic CI/CD` |
+| **Languages** | `Python` `Dart` `C` `C++` `C#` `Delphi / Object Pascal` `PHP` `JavaScript` `SQL` `HTML5` `CSS3` |
+| **AI, ML & Vision** | `YOLOv` `OpenCV` `CatBoost` `XGBoost` `LightGBM` `Scikit-Learn` `Tesseract OCR` `Pandas` `NumPy` |
+| **Mobile & Cross-Platform** | `Flutter` `iOS (App Store / TestFlight)` `Android (Google Play)` `Python Kivy` `SymPy` |
+| **Embedded & IoT** | `ESP8266` `ESP32` `STM32F4 Discovery` `Arduino` `Digital Logic Design` `Sensor Integration` |
+| **Backend, Web & DevOps** | `Firebase` `MySQL` `MSSQL` `Django` `Streamlit` `GitHub Actions` `Codemagic CI/CD` |
 
 ---
 
-### 📂 Featured Open-Source Repositories
+### 🚀 Featured Projects & Open-Source Repositories
 
-> Click on any repository card or link below to explore the source code, architecture, and documentation.
+> Click on any repository card or project title below to explore the source code, architecture, and documentation.
 
 <div align="center">
-  <a href="https://github.com/AstroBesat-SoftW/Smart-Plant-IoT">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=AstroBesat-SoftW&repo=Smart-Plant-IoT&theme=tokyonight&hide_border=true" alt="Smart-Plant-IoT" />
-  </a>
-  <a href="https://github.com/AstroBesat-SoftW/Pixel-Text-Compression">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=AstroBesat-SoftW&repo=Pixel-Text-Compression&theme=tokyonight&hide_border=true" alt="Pixel-Text-Compression" />
-  </a>
-  <a href="https://github.com/AstroBesat-SoftW/Astro-Image-Pipeline">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=AstroBesat-SoftW&repo=Astro-Image-Pipeline&theme=tokyonight&hide_border=true" alt="Astro-Image-Pipeline" />
+  <a href="https://github.com/mathpathconsole/mathpath">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=mathpathconsole&repo=mathpath&theme=tokyonight&hide_border=true" alt="MathPath" />
   </a>
   <a href="https://github.com/AstroBesat-SoftW/Python-Editor">
     <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=AstroBesat-SoftW&repo=Python-Editor&theme=tokyonight&hide_border=true" alt="Python-Editor" />
   </a>
+  <a href="https://github.com/AstroBesat-SoftW/Pixel-Text-Compression">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=AstroBesat-SoftW&repo=Pixel-Text-Compression&theme=tokyonight&hide_border=true" alt="Pixel-Text-Compression" />
+  </a>
+  <a href="https://github.com/AstroBesat-SoftW/Logic-Circuit-Algorithm">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=AstroBesat-SoftW&repo=Logic-Circuit-Algorithm&theme=tokyonight&hide_border=true" alt="Logic-Circuit-Algorithm" />
+  </a>
+  <a href="https://github.com/AstroBesat-SoftW/YOLOv_Object_Detection">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=AstroBesat-SoftW&repo=YOLOv_Object_Detection&theme=tokyonight&hide_border=true" alt="YOLOv_Object_Detection" />
+  </a>
+  <a href="https://github.com/AstroBesat-SoftW/ats-cv-builder">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=AstroBesat-SoftW&repo=ats-cv-builder&theme=tokyonight&hide_border=true" alt="ats-cv-builder" />
+  </a>
+  <a href="https://github.com/AstroBesat-SoftW/Delphi">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=AstroBesat-SoftW&repo=Delphi&theme=tokyonight&hide_border=true" alt="Delphi" />
+  </a>
+  <a href="https://github.com/AstroBesat-SoftW/Smart-Plant-IoT">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=AstroBesat-SoftW&repo=Smart-Plant-IoT&theme=tokyonight&hide_border=true" alt="Smart-Plant-IoT" />
+  </a>
 </div>
-
-#### 🔬 Deep-Dive into Highlighted Repositories
-
-* 🌱 **[Smart-Plant-IoT](https://github.com/AstroBesat-SoftW/Smart-Plant-IoT)** — `Flutter` `ESP8266` `Firebase` `C++`
-  * *Solo Undergraduate Thesis Project:* An autonomous IoT smart agriculture & plant care ecosystem. Features real-time telemetry, automated irrigation, and **biophysical stress analysis via Vapor Pressure Deficit (VPD)** across Android, iOS, and Web.
-* 🗜️ **[Pixel-Text-Compression](https://github.com/AstroBesat-SoftW/Pixel-Text-Compression)** — `Python` `Custom Algorithms`
-  * A custom lossless pixel-to-text compression and reconstruction engine built entirely **from scratch without any external compression libraries** (`zlib`, `PNG codecs`, or `LZW` packages).
-* 🌌 **[Astro-Image-Pipeline](https://github.com/AstroBesat-SoftW/Astro-Image-Pipeline)** — `Python` `Image Processing`
-  * Scientific image enhancement pipeline engineered for amateur astrophotography. Enhances deep-sky captures by combining **BM3D denoising, histogram stretching, and unsharp masking**.
-* 🤖 **[Python-Editor](https://github.com/AstroBesat-SoftW/Python-Editor)** — `Python` `AI Agent` `IDE`
-  * A lightweight, open-source Python IDE featuring an **autonomous debugging agent** capable of analyzing stack traces and proposing real-time code fixes.
-* ➗ **[MathPath: Symbolic Math Solver](https://github.com/mathpathconsole/mathpath)** — `Python` `Kivy` `SymPy`
-  * Open-source offline symbolic calculator solving algebra, differential equations, and vector fields with 2D/3D dataset plotting on Android and Windows ([Contributor & Co-Developer](https://mathpathconsole.github.io/)).
 
 ---
 
-### 📱 Commercial Products, Games & Research Projects
+#### 📌 1. [MathPath — Symbolic Math Solver & Puzzle Ecosystem](https://github.com/mathpathconsole/mathpath)
+**Tech:** `Python` `Flutter` `Kivy` `SymPy`
+- **Open-Source Symbolic Engine & Mobile App:** An advanced offline symbolic calculator and math puzzle ecosystem capable of solving complex algebra, calculus, differential equations, and rendering 2D/3D plots across Android and desktop platforms.
+- 🌐 **Live Portal:** [mathpathconsole.github.io](https://mathpathconsole.github.io/) | 📦 **Repository:** [github.com/mathpathconsole/mathpath](https://github.com/mathpathconsole/mathpath)
 
-| Project / Product | Category | Highlights & Links |
+#### 🤖 2. [Python-Editor — Lightweight IDE with Autonomous Debugging Agent](https://github.com/AstroBesat-SoftW/Python-Editor)
+**Tech:** `Python` `AI Agent` `IDE Architecture`
+- An open-source, lightweight Python development environment featuring an **autonomous debugging agent** that analyzes runtime stack traces, explains exceptions, and applies automated code fixes in real time.
+- 📦 **Repository:** [github.com/AstroBesat-SoftW/Python-Editor](https://github.com/AstroBesat-SoftW/Python-Editor)
+
+#### 🗜️ 3. [Pixel-Text-Compression — Custom Lossless Compression Engine](https://github.com/AstroBesat-SoftW/Pixel-Text-Compression)
+**Tech:** `Python` `Data Compression` `Algorithm Design`
+- A custom lossless pixel-to-text encoding and image reconstruction algorithm built entirely **from scratch without any external compression libraries** (`zlib`, `PNG codecs`, or `LZW`).
+- 📦 **Repository:** [github.com/AstroBesat-SoftW/Pixel-Text-Compression](https://github.com/AstroBesat-SoftW/Pixel-Text-Compression)
+
+#### ⚡ 4. [Logic-Circuit-Algorithm — Digital Logic Gate Simulator Engine](https://github.com/AstroBesat-SoftW/Logic-Circuit-Algorithm)
+**Tech:** `Algorithm Design` `Digital Logic` `Simulation`
+- Core algorithmic engine and simulation logic for designing, evaluating, and testing digital logic circuits, boolean algebra expressions, and combinational/sequential hardware gates.
+- 📦 **Repository:** [github.com/AstroBesat-SoftW/Logic-Circuit-Algorithm](https://github.com/AstroBesat-SoftW/Logic-Circuit-Algorithm)
+
+#### 🎯 5. [YOLOv_Object_Detection — Real-Time Computer Vision Pipeline](https://github.com/AstroBesat-SoftW/YOLOv_Object_Detection)
+**Tech:** `Python` `YOLO` `OpenCV` `Deep Learning`
+- Real-time object detection, localization, and classification pipeline utilizing YOLO architectures for high-speed video stream and image inference.
+- 📦 **Repository:** [github.com/AstroBesat-SoftW/YOLOv_Object_Detection](https://github.com/AstroBesat-SoftW/YOLOv_Object_Detection)
+
+#### 📄 6. [ATS-CV-Builder — Automated ATS-Compliant Resume Generator](https://github.com/AstroBesat-SoftW/ats-cv-builder)
+**Tech:** `Web Technologies` `Document Automation` `ATS Optimization`
+- A developer and professional utility designed to structure, format, and export clean, parser-friendly resumes optimized for Applicant Tracking Systems (ATS).
+- 📦 **Repository:** [github.com/AstroBesat-SoftW/ats-cv-builder](https://github.com/AstroBesat-SoftW/ats-cv-builder)
+
+#### 🖥️ 7. [Delphi — Native Desktop & System Applications](https://github.com/AstroBesat-SoftW/Delphi)
+**Tech:** `Delphi` `Object Pascal` `VCL` `Native Windows Apps`
+- Collection of rapid application development (RAD) projects, system utilities, and native desktop software architectures developed using Delphi and Object Pascal.
+- 📦 **Repository:** [github.com/AstroBesat-SoftW/Delphi](https://github.com/AstroBesat-SoftW/Delphi)
+
+#### 🌱 8. [Smart-Plant-IoT — Autonomous Smart Agriculture System](https://github.com/AstroBesat-SoftW/Smart-Plant-IoT)
+**Tech:** `Flutter` `Firebase` `Arduino ESP8266` `C++`
+- Remotely controlled mobile application and IoT hardware system providing real-time telemetry, automatic temperature/humidity tracking, VPD biophysical stress analysis, and graphical data visualization.
+- 📦 **Repository:** [github.com/AstroBesat-SoftW/Smart-Plant-IoT](https://github.com/AstroBesat-SoftW/Smart-Plant-IoT)
+
+---
+
+### 🏆 AI Research & Published Mobile Games (App Store & Google Play)
+
+| Project / Product | Domain | Highlights & Details |
 | :--- | :--- | :--- |
-| **🧬 LUCA-AI** | *Health AI / Bioinformatics* | **TEKNOFEST 2026 Finalist (98.5 Pts)**. Ensemble ML pipeline (`CatBoost`, `XGBoost`, `LightGBM`) for genomic variant classification. |
-| **🚀 AstroDash** | *Mobile Game (iOS & Android)* | Fast-paced arcade space runner built with `Flutter` & automated iOS TestFlight/App Store CI/CD workflows. [Privacy & Info](https://astrobesat-softw.github.io/Sotstech-Privacy/astrodash.html) |
-| **🎨 Color Jump: Global League** | *Mobile Game (iOS & Android)* | Competitive arcade game featuring real-time country-based global leaderboards and multi-language localization. |
-| **⚡ Logic Circuit Lab** | *Web Simulator (SotsTech)* | Interactive digital logic gate simulator and educational hardware showcase hosted on [sotstech.com](https://sotstech.com). |
-| **🌊 AQUACITY** | *IoT & Smart City (ÜNİDES)* | Physical hardware testbed simulation for urban flood prevention and automated rainwater harvesting. |
-| **📖 Real-Time Book Translator** | *Computer Vision / OCR* | Developed for *Düşünürler Dergisi* using `Python`, `OpenCV`, and `Tesseract` to instantly OCR and translate physical book pages. |
+| **🧬 AI in Health (Sağlıkta Yapay Zeka)** | *Bioinformatics & Machine Learning* | **TEKNOFEST 2026 AI in Health Finalist (98.5/100 Score)**. High-accuracy ensemble ML pipeline (`CatBoost`, `XGBoost`, `LightGBM`) engineered for clinical genomic variant classification. |
+| **🚀 AstroDash** | *Mobile Game (iOS & Android)* | Cross-platform arcade space runner built with `Flutter`, deployed to the **App Store** & **Google Play** via automated CI/CD workflows (`GitHub Actions` & `Codemagic`). |
+| **🎨 Color Jump: Global League** | *Mobile Game (iOS & Android)* | Competitive arcade mobile game featuring real-time country-based global leaderboards, multi-language localization, and cross-platform cloud sync. |
+| **📖 Real-Time Book Translator** | *Computer Vision & OCR* | Developed for *Düşünürler Dergisi* using `Python`, `OpenCV`, and `Tesseract` to capture book pages, recognize text via OCR, and render instant on-screen translations. |
 
 ---
 
@@ -124,12 +164,13 @@ I am a **Software Engineer & AI Researcher** passionate about bridging **scienti
 
 ### 💼 Experience & Education
 
-- **Founder & Lead Engineer** @ **[SotsTech](https://sotstech.com)** & **[Düşünürler Dergisi](http://www.dusunurlerdergisi.com)**
-- **Core Developer** @ **Google Developer Groups (GDG on Campus NKÜ)** — *Engineered real-time event quiz & leaderboard systems.*
+- **Founder & Lead Developer** @ **[SotsTech](https://sotstech.com)** & **[Düşünürler Dergisi](http://www.dusunurlerdergisi.com)**
+- **Core Developer** @ **Google Developer Groups (GDG on Campus NKÜ)**
 - **Software Engineering Intern** @ **Istanbul ML**
 - **Education:** 
   - 🎓 **Tekirdağ Namık Kemal University** — *B.Sc. in Computer Engineering*
   - 🎓 **Çanakkale Onsekiz Mart University**
+- **Certifications:** Google Turkey Game & Application Academy, Google Digital Garage.
 
 ---
 
